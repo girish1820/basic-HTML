@@ -1,0 +1,2 @@
+# basic-HTML
+A SIMPLE CODE ON JS AND HTML
